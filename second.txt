@@ -1,0 +1,2 @@
+smartgit pull directories
+my second line
